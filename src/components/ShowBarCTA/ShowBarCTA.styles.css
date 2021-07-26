@@ -1,0 +1,16 @@
+.showBarCTA {
+  width: 200px;
+  height: 200px;
+  border: 3px solid black;
+  border-radius: 50%;
+  background-color: white;
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25);
+}
+
+.showBarCTA:hover {
+  background-color: #f5f5f5;
+}
+
+.showBarText {
+  font-size: 2rem;
+}
