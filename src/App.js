@@ -14,7 +14,7 @@ function App() {
       {isToolbar ? (
         <Toolbar
           message='Add beautiful widgets to your website'
-          position='top'
+          position='bottom'
           setIsToolbar={setIsToolbar}
         />
       ) : null}
